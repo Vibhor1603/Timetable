@@ -1,0 +1,40 @@
+*{
+    background-color: white;
+}
+table,td,th{
+    border-collapse: collapse;
+}
+td{
+    padding: 1px;
+}
+.subject{
+    padding: 10px;
+}
+table{
+    margin-top: 0px;
+    width: 95%;
+    
+}
+.college-logo{
+    width: 130px;
+    height: 70px;
+    margin-left:0px;
+    padding: 0;
+    margin-bottom: 0px;
+    margin-right: 30px;
+}
+.elements{
+    margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+}
+.college-info{
+    margin-left: 450px;
+    font-weight: 900;
+    padding: 0px;
+    margin-top: 0px;
+    line-height: 25px;
+}
